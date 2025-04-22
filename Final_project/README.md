@@ -8,10 +8,10 @@ This repository contains the final project for Environmental System Analysis usi
 ```
 Final_project/
 ├── Code/
-│   ├── ESA_TFT_SI_Jeju.ipynb         # TFT model training for Jeju station
-│   ├── ESA_TFT_SI_West.ipynb         # TFT model training for West station
-│   ├── ESA_TFT_SI_East.ipynb         # TFT model training for East station
-│   └── ESA_TFT_SI_Inland.ipynb       # TFT model training for Inland station
+│   ├── ESA_TFT_SI_Jeju.ipynb         # TFT model for Jeju station
+│   ├── ESA_TFT_SI_West.ipynb         # TFT model for West station
+│   ├── ESA_TFT_SI_East.ipynb         # TFT model for East station
+│   └── ESA_TFT_SI_Inland.ipynb       # TFT model for Inland station
 ├── Data/
 │   ├── Jeju_Train.xlsx               # Jeju station training dataset
 │   ├── Jeju_Test.xlsx                # Jeju station test dataset
