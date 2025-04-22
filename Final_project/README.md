@@ -37,6 +37,14 @@ Follow the steps below to clone the repository, set up the environment, install 
 git clone https://github.com/Dongwoon1012/stats507-coursework.git
 cd stats507-coursework/Final_project
 ```
+> 💡 **Note:** If you see an error like `'git' is not recognized as an internal or external command`,  
+> Git may not be installed. You can fix this by running the following in Anaconda Prompt:
+
+```bash
+conda install git -y
+```
+Or download Git for Windows from: https://git-scm.com/download/win
+
 
 ### 2. Create and Activate Conda Environment
 
