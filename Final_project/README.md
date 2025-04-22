@@ -40,9 +40,19 @@ cd stats507-coursework/Final_project
 
 ### 2. Create and Activate Conda Environment
 
+```bash
 conda create -n tft_env python=3.9 -y
 conda activate tft_env
+```
 
+### 3. Install Required Packages
+
+```bash
 pip install -r requirements.txt
+```
 
+### 4. Launch Jupyter Notebook
+
+```bash
 jupyter notebook
+```
