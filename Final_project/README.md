@@ -15,14 +15,14 @@ Final_project/
 ├── Data/
 │   ├── Jeju_Train.xlsx               # Jeju station training dataset
 │   ├── Jeju_Test.xlsx                # Jeju station test dataset
-│   ├── West_Train.xlsx
-│   ├── West_Test.xlsx
-│   ├── East_Train.xlsx
-│   ├── East_Test.xlsx
-│   ├── Inland_Train.xlsx
-│   └── Inland_Test.xlsx
-├── requirements.txt                 # Project dependencies
-└── README.md                        # This file
+│   ├── West_Train.xlsx               # West station training dataset
+│   ├── West_Test.xlsx                # West station test dataset
+│   ├── East_Train.xlsx               # East station training dataset
+│   ├── East_Test.xlsx                # East station test dataset
+│   ├── Inland_Train.xlsx             # Inland station training dataset
+│   └── Inland_Test.xlsx              # Inlang station test dataset
+├── requirements.txt                  # Project dependencies
+└── README.md                         # This file
 ```
 
 ---
