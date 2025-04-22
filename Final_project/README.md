@@ -43,7 +43,7 @@ cd stats507-coursework/Final_project
 ```bash
 conda install git -y
 ```
-Or download Git for Windows from: https://git-scm.com/download/win
+> Or download Git for Windows from: https://git-scm.com/download/win
 
 
 ### 2. Create and Activate Conda Environment
