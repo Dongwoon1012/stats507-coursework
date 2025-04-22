@@ -37,6 +37,7 @@ Follow the steps below to clone the repository, set up the environment, install 
 git clone https://github.com/Dongwoon1012/stats507-coursework.git
 cd stats507-coursework/Final_project
 
+
 2. Create and Activate Conda Environment
 
 conda create -n tft_env python=3.9 -y
