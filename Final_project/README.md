@@ -67,12 +67,10 @@ jupyter notebook
 
 ### 5. Run the Code for Each Station
 After launching the Jupyter Notebook, open and run the following notebooks located in the Code/ directory:
-ESA_TFT_SI_Jeju.ipynb – Jeju station model
 
-ESA_TFT_SI_West.ipynb – West station model
-
-ESA_TFT_SI_East.ipynb – East station model
-
-ESA_TFT_SI_Inland.ipynb – Inland station model
+- 'ESA_TFT_SI_Jeju.ipynb' – Jeju station model
+- 'ESA_TFT_SI_West.ipynb' – West station model
+- 'ESA_TFT_SI_East.ipynb' – East station model
+- 'ESA_TFT_SI_Inland.ipynb' – Inland station model
 
 Make sure to run each notebook from start to finish to train the TFT model and generate results for each station.
